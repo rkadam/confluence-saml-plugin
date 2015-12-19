@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.bitium.confluence</groupId>
     <artifactId>SAML2Plugin</artifactId>
-    <version>1.0.3</version>
+    <version>1.0.4</version>
     <name>SAML 2.0 Single Sign-On for Confluence</name>
     <description>Easily configure Confluence to support SAML 2.0</description>
     <packaging>atlassian-plugin</packaging>
